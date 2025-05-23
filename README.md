@@ -1,7 +1,8 @@
 # LinkedIn Queens Game Solver
 Python solution for automatically solving levels in LinkedIn's "Queens" Daily Puzzle
 
-![Capture from queensgame.vercel.app](queensgame.png)
+![](queensgame.png)
+> Capture from queensgame.vercel.app
 
 This script automates solving and interacting with a color-region variant of the N-Queens puzzle, as seen in certain online logic games.
 
